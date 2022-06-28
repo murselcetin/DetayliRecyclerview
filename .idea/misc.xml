@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/fragment_anasayfa.xml" value="0.1" />
-        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/fragment_detay.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/activity_main.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/card_tasarim.xml" value="0.2" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/fragment_anasayfa.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/layout/fragment_detay.xml" value="0.16" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/DetayliRecyclerview/app/src/main/res/menu/popup_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
